@@ -4,6 +4,10 @@ html {
 	font-family: monospace;
 }
 
+img {
+	image-rendering: pixelated;
+}
+
 kbd {
 	background-color: #cbcbcb;
 	color: #4f4f4f;
